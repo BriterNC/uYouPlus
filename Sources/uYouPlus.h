@@ -10,11 +10,6 @@
 #import <YouTubeHeader/YTAppDelegate.h> // Activate FLEX
 #import <YouTubeHeader/YTIMenuConditionalServiceItemRenderer.h>
 
-// Hide buttons under the video player by @PoomSmart
-#import <YouTubeHeader/ASCollectionElement.h>
-#import <YouTubeHeader/ASCollectionView.h>
-#import <YouTubeHeader/ELMNodeController.h>
-
 // #import <YouTubeHeader/YTISectionListRenderer.h> // Hide search ads by @PoomSmart - https://github.com/PoomSmart/YouTube-X
 
 #define LOC(x) [tweakBundle localizedStringForKey:x value:nil table:nil]
